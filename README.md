@@ -7,7 +7,7 @@ Heyyyyyyyyy !!! 😄
 ---
 
 - 🔭 **I’m currently working on:** AI + IoT models solving real-life problems 🌍  
-- 🌱 **I’m currently learning:** Machine Learning 🤖 | Cloud ☁️ | DevOps ⚡  
+- 🌱 **I’m currently learning:**  AI/ML 🤖 | Cloud ☁️ 
 - 👯 **I’m looking to collaborate on:** AI/ML, Cloud, and Python projects 🚀  
 - 🤔 **I’m looking for help with:** Building scalable AI + Cloud solutions 🔗  
 - 💬 **Ask me about:** Python 🐍, AI/ML, Cloud, or even Resin Art 🎨  
