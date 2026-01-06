@@ -12,7 +12,7 @@ Heyyyyyyyyy !!! 😄
 - 🤔 **I’m looking for help with:** Building scalable AI + Cloud solutions 🔗  
 - 💬 **Ask me about:** Python 🐍, AI/ML, Cloud, or even Resin Art 🎨  
 - 📫 **How to reach me:** [aadis9028@gmail.com](mailto:aadis9028@gmail.com) | [adiexzzz@proton.me](mailto:adiexzzz@proton.me)
-- 😄 **Pronouns:**  Adi !!!
+- 😄 **Pronouns:**  Oyee Adi !!!
 - ⚡ **Fun fact:** Turning ☕ into code, capturing life 📸, and spiking stress away 🏐  
 
 ---
